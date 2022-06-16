@@ -1,0 +1,10 @@
+train_size = 162770
+validation_size = 182637
+test_size = 202599 
+
+batch_size = 10
+
+
+idx = 25399
+
+총 253990 장 학습 
