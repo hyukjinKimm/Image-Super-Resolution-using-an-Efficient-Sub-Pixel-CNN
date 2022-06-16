@@ -24,7 +24,8 @@ Therefore, each image channel passes through the neural network.
 
 ## Getting Started
 
-* download the data from https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+* make data folder
+* download the data from https://www.kaggle.com/datasets/jessicali9530/celeba-dataset into data folder
 
  Inside the data folder, there should be an img_align_celeba folder and a list_val_partition.csv file
 
